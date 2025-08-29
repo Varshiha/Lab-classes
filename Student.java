@@ -18,11 +18,11 @@ public class Student
     /**
      * Create a new student with a given name and ID number.
      */
-    public Student(String fullName, String studentID)
+    public Student(String fullName, String studentID, int credits)
     {
         name = fullName;
         id = studentID;
-        credits = 0;
+        credits = credits;
     }
 
     /**
