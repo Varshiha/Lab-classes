@@ -11,6 +11,7 @@ public class Circle
     private int x;
     private int y;
     private int name;
+    private boolean send;
 
     /**
      * Constructor for objects of class Circle
@@ -31,5 +32,8 @@ public class Circle
     {
         // put your code here
         return x + y;
+    }
+    public void send(String message){
+    System.out.println(message);
     }
 }
