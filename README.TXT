@@ -29,3 +29,7 @@ Question 31:
 - "33" is String (quotation marks)
 - 3.1415 is double (decimal)
 
+35. In the question, it says to look at the book YOU are reading now. So, if it is the book that I am reading right now which is the physical copy that I have in front of me as of right now it will be an object because it is MY book and its class would be Book in general and other objects would be other individual books that are around the world.
+
+36. No, an object cannot have several classes. In fact, a class can have several object. Each object is specific but they come from the same category/blueprint. For example, one object can be student 1 named Tom Smith and another object called student 2 named Joey Tribiani and both of them are part of the class called Student.
+
