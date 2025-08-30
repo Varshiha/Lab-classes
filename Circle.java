@@ -10,8 +10,10 @@ public class Circle
     // instance variables - replace the example below with your own
     private int x;
     private int y;
-    private int name;
-    private boolean send;
+    private int average;
+    private int a;
+    private int b;
+    
 
     /**
      * Constructor for objects of class Circle
@@ -33,7 +35,7 @@ public class Circle
         // put your code here
         return x + y;
     }
-    public void send(String message){
-    System.out.println(message);
+    public int average(int a, int b){
+    return (a + b);
     }
 }
